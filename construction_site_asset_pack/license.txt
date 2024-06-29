@@ -1,0 +1,11 @@
+Model Information:
+* title:	Construction Site Asset Pack
+* source:	https://sketchfab.com/3d-models/construction-site-asset-pack-a6cccf5af6514f2f9289beeead38fe1b
+* author:	vmatthew (https://sketchfab.com/vmatthew)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Construction Site Asset Pack" (https://sketchfab.com/3d-models/construction-site-asset-pack-a6cccf5af6514f2f9289beeead38fe1b) by vmatthew (https://sketchfab.com/vmatthew) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
